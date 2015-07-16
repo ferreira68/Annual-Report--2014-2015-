@@ -1,0 +1,232 @@
+From:	Barmada, Mahmud Muhiedine
+Sent:	Friday, July 10, 2015 8:35 AM
+To:	Ferreira, Antonio M
+Subject:	Re: Funding and publications
+
+Tony,
+
+Sorry - forgot about this until Karl’s email
+Here is my information:
+
+Funding (these all make use of SaM resources in one way or another):
+
+Institute for Personalized Medicine (Univ of Pittsburgh) 
+Pittsburgh Genome Resource Repository (phase 2) 
+Co-PI 
+10/1/14 - 9/30/15 
+ 
+NIH/NLM 
+R01 LM011663 
+A New Generation Clinical Decision Support System 
+Co-Investigator 
+10/1/14 - 9/30/17 
+ 
+NIH/NIA 
+U01-AG023744-07 
+Families of Cohort Survivors Over 90 - Study Center 
+Co-Investigator 
+9/1/04 - 8/31/19
+NIH/NIA 
+R01 AG041718 
+Deep Resequencing of Candidate Gene Regions in Late-onset Alzheimer’s Disease 
+Co-Investigator 
+9/30/12 - 8/31/17 
+ 
+NIH/NIGHR 
+U54 HG007934 
+Center for Causal Modeling and Discovery of Biomedical Knowledge from Big Data 
+Co-Investigator 
+11/1/14 - 10/31/18 
+ 
+NSF/Directorate for Computer & Information Science & Engineering 
+CC*IIE Networking Infrastructure: Accelerating Science,Translational Research, and 
+Collaboration at the University of Pittsburgh 
+Co-PI 
+10/1/14 - 9/30/17 
+ 
+Publications:
+	• Zheng X, Demirci FY, Barmada MM, Richardson GA, Lopez OL, Sweet RA, Kamboh 
+MI, Feingold E. Genome-wide copy-number variation study of psychosis in Alzheimer's 
+disease. Transl Psychiatry. 2015 Jun 2;5:e574. doi: 10.1038/tp.2015.64. PMID: 26035058
+
+	• Jun G, Ibrahim-Verbaas CA, Vronskaya M, Lambert JC, Chung J, Naj AC, Kunkle BW, 
+Wang LS, Bis JC, Bellenguez C, Harold D, Lunetta KL, Destefano AL, Grenier-Boley B, Sims 
+R, Beecham GW, Smith AV, Chouraki V, Hamilton-Nelson KL, Ikram MA, Fievet N, 
+Denning N, Martin ER, Schmidt H, Kamatani Y, Dunstan ML, Valladares O, Laza AR, Zelenika 
+D, Ramirez A, Foroud TM, Choi SH, Boland A, Becker T, Kukull WA, van der Lee SJ, Pasquier 
+F, Cruchaga C, Beekly D, Fitzpatrick AL, Hanon O, Gill M, Barber R, Gudnason V, Campion D, 
+Love S, Bennett DA, Amin N, Berr C, Tsolaki M, Buxbaum JD, Lopez OL, Deramecourt V, Fox 
+NC, Cantwell LB, Tárraga L, Dufouil C, Hardy J, Crane PK, Eiriksdottir G, Hannequin D, 
+Clarke R, Evans D, Mosley TH Jr, Letenneur L, Brayne C, Maier W, De Jager P, Emilsson V, 
+Dartigues JF, Hampel H, Kamboh MI, de Bruijn RF, Tzourio C, Pastor P, Larson EB, Rotter JI, 
+O'Donovan MC, Montine TJ, Nalls MA, Mead S, Reiman EM, Jonsson PV, Holmes C, St 
+George-Hyslop PH, Boada M, Passmore P, Wendland JR, Schmidt R, Morgan K, Winslow AR, 
+Powell JF, Carasquillo M, Younkin SG, Jakobsdóttir J, Kauwe JS, Wilhelmsen KC, Rujescu D, 
+Nöthen MM, Hofman A, Jones L, IGAP Consortium, Haines JL, Psaty BM, Van Broeckhoven 
+C, Holmans P, Launer LJ, Mayeux R, Lathrop M, Goate AM, Escott-Price V, Seshadri S, 
+Pericak-Vance MA, Amouyel P, Williams J, van Duijn CM, Schellenberg GD, Farrer LA. A 
+novel Alzheimer disease locus located near the gene encoding tau protein. Molecular Psychiatry. 
+2015 Mar 17. PMID:25778476. doi:10.1038/mp.2015.23
+
+	• Minster RL, Sanders JL, Singh J, Kammerer CM, Barmada MM, Matteini AM, Zhang 
+Q, Wojczynski MK, Daw EW, Brody JA, Arnold AM, Lunetta KL, Murabito JM, Christensen K, 
+Perls TT, Province MA, Newman AB.Genome-Wide Association Study and Linkage Analysis of 
+the Healthy Aging Index. The Journals of Gerontology. Series A, Biological Sciences and 
+Medical Sciences. 2015 Mar 10. PMID:25758594. doi:10.1093/gerona/glv006
+
+	• Wang X, Lopez O, Sweet RA, Becker JT, DeKosky ST, Barmada MM, Feingold E, 
+Demirci FY, Kamboh MI.Genetic Determinants of Survival in Patients with Alzheimer's 
+Disease. Journal of Alzheimer's Disease : JAD. 2015 Feb 3. PMID:25649651. doi:10.3233/JAD-
+142442
+
+	• Wang LS, Naj AC, Graham RR, Crane PK, Kunkle BW, Cruchaga C, Murcia JD, 
+Cannon-Albright L, Baldwin CT, Zetterberg H, Blennow K, Kukull WA, Faber KM, Schupf N, 
+Norton MC, Tschanz JT, Munger RG, Corcoran CD, Rogaeva E, Alzheimer's Disease 
+Genetics Consortium, Lin CF, Dombroski BA, Cantwell LB, Partch A, Valladares O, 
+Hakonarson H, St George-Hyslop P, Green RC, Goate AM, Foroud TM, Carney RM, Larson 
+EB, Behrens TW, Kauwe JS, Haines JL, Farrer LA, Pericak-Vance MA, Mayeux R, 
+Schellenberg GD, National Institute on Aging-Late-Onset Alzheimer’s Disease (NIA-LOAD) 
+Family Study, Albert MS, Albin RL, Apostolova LG, Arnold SE, Barber R, Barmada MM, 
+Barnes LL, Beach TG, Becker JT, Beecham GW, Beekly D, Bennett DA, Bigio EH, Bird TD, 
+Blacker D, Boeve BF, Bowen JD, Boxer A, Burke JR, Buxbaum JD, Cairns NJ, Cao C, Carlson 
+CS, Carroll SL, Chui HC, Clark DG, Cribbs DH, Crocco EA, DeCarli C, DeKosky ST, Demirci 
+FY, Dick M, Dickson DW, Duara R, Ertekin-Taner N, Fallon KB, Farlow MR, Ferris S, Frosch 
+MP, Galasko DR, Ganguli M, Gearing M, Geschwind DH, Ghetti B, Gilbert JR, Glass JD, Graff-
+Radford NR, Growdon JH, Hamilton RL, Hamilton-Nelson KL, Harrell LE, Head E, Honig LS, 
+Hulette CM, Hyman BT, Jarvik GP, Jicha GA, Jin LW, Jun G, Jun G, Kamboh MI, Karydas A, 
+Kaye JA, Kim R, Koo EH, Kowall NW, Kramer JH, LaFerla FM, Lah JJ, Leverenz JB, Levey 
+AI, Li G, Lieberman AP, Lopez OL, Lunetta KL, Lyketsos CG, Mack WJ, Marson DC, Martin 
+ER, Martiniuk F, Mash DC, Masliah E, McCormick WC, McCurry SM, McDavid AN, McKee 
+AC, Mesulam WM, Miller BL, Miller CA, Miller JW, Montine TJ, Morris JC, Murrell JR, 
+Olichney JM, Parisi JE, Perry W, Peskind E, Petersen RC, Pierce A, Poon WW, Potter H, Quinn 
+JF, Raj A, Raskind M, Reiman EM, Reisberg B, Reitz C, Ringman JM, Roberson ED, Rosen HJ, 
+Rosenberg RN, Sano M, Saykin AJ, Schneider JA, Schneider LS, Seeley WW, Smith AG, 
+Sonnen JA, Spina S, Stern RA, Tanzi RE, Thornton-Wells TA, Trojanowski JQ, Troncoso JC, 
+Tsuang DW, Van Deerlin VM, Van Eldik LJ, Vardarajan BN, Vinters HV, Vonsattel 
+JP, Weintraub S, Welsh-Bohmer KA, Williamson J, Wishnek S, Woltjer RL, Wright CB, 
+Younkin SG, Yu CE, Yu L. Rarity of the Alzheimer disease-protective APP A673T variant in 
+the United States. JAMA Neurology. 2015 Feb;72(2):209-16. 
+PMID:25531812. PMCID:PMC4324097. doi:10.1001/jamaneurol.2014.2157
+
+	• Pirim D, Wang X, Radwan ZH, Niemsiri V, Bunker CH, Barmada MM, Kamboh MI, 
+Demirci FY. Resequencing of LPL in African Blacks and associations with lipoprotein-lipid 
+levels. European Journal of Human Genetics : EJHG. 2015 Jan 28. 
+PMID:25626708. doi:10.1038/ejhg.2014.268
+
+	• Wang X, Lopez OL, Sweet RA, Becker JT, DeKosky ST, Barmada MM, Demirci FY, 
+Kamboh MI. Genetic determinants of disease progression in Alzheimer's disease. Journal of 
+Alzheimer's Disease : JAD. 2015;43(2):649-55. PMID:25114068. 
+PMCID:PMC4245313. doi:10.3233/JAD-140729
+
+	• Niemsiri V, Wang X, Pirim D, Radwan ZH, Hokanson JE, Hamman RF, Barmada MM, 
+Demirci FY, Kamboh MI.Impact of genetic variants in human scavenger receptor class B type I 
+(SCARB1) on plasma lipid traits. Circulation. Cardiovascular Genetics. 2014 Dec;7(6):838-47. 
+PMID:25245032. PMCID:PMC4270916. doi:10.1161/CIRCGENETICS.114.000559.
+
+	• Floudas CS, Um N, Kamboh MI, Barmada MM, Visweswaran S. Identifying genetic 
+interactions associated with late-onset Alzheimer's disease. BioData Mining. 2014 Dec;7(1):35. 
+PMID:25649863. PMCID:PMC4300162. doi:10.1186/s13040-014-0035-z
+
+	• Radwan ZH, Wang X, Waqar F, Pirim D, Niemsiri V, Hokanson JE, Hamman RF, 
+Bunker CH, Barmada MM, Demirci FY, Kamboh MI. Comprehensive Evaluation of the 
+Association of APOE Genetic Variation with Plasma Lipoprotein Traits in U.S. Whites and 
+African Blacks. PloS One. 2014 Dec;9(12):e114618. PMID:25502880. PMCID:PMC4264772. 
+doi:10.1371/journal.pone.0114618.
+
+	• Zheng X, Demirci FY, Barmada MM, Richardson GA, Lopez OL, Sweet RA, Kamboh 
+MI, Feingold E. A rare duplication on chromosome 16p11.2 is identified in patients with 
+psychosis in Alzheimer's disease. PloS One. 2014 Nov;9(11):e111462. 
+PMID:25379732. PMCID:PMC4224411. doi:10.1371/journal.pone.0111462
+
+	• Naj AC, Jun G, Reitz C, Kunkle BW, Perry W, Park YS, Beecham GW, Rajbhandary 
+RA, Hamilton-Nelson KL, Wang LS, Kauwe JS, Huentelman MJ, Myers AJ, Bird TD, Boeve 
+BF, Baldwin CT, Jarvik GP, Crane PK, Rogaeva E, Barmada MM, Demirci FY, Cruchaga 
+C, Kramer PL, Ertekin-Taner N, Hardy J, Graff-Radford NR, Green RC, Larson EB, St George-
+Hyslop PH, Buxbaum JD, Evans DA, Schneider JA, Lunetta KL, Kamboh MI, Saykin AJ, 
+Reiman EM, De Jager PL, Bennett DA, Morris JC, Montine TJ, Goate AM, Blacker D, 
+Tsuang DW, Hakonarson H, Kukull WA, Foroud TM, Martin ER, Haines JL, Mayeux RP, Farrer 
+LA, Schellenberg GD, Pericak-Vance MA, Alzheimer Disease Genetics Consortium, Albert MS, 
+Albin RL, Apostolova LG, Arnold SE, Barber R, Barnes LL, Beach TG, Becker JT, Beekly 
+D, Bigio EH, Bowen JD, Boxer A, Burke JR, Cairns NJ, Cantwell LB, Cao C, Carlson CS, 
+Carney RM, Carrasquillo MM, Carroll SL, Chui HC, Clark DG, Corneveaux J, Cribbs DH, 
+Crocco EA, DeCarli C, DeKosky ST, Dick M, Dickson DW, Duara R, Faber KM, Fallon KB, 
+Farlow MR, Ferris S, Frosch MP, Galasko DR, Ganguli M, Gearing M, Geschwind DH, Ghetti 
+B, Gilbert JR, Glass JD, Growdon JH, Hamilton RL, Harrell LE, Head E, Honig LS, Hulette 
+CM, Hyman BT, Jicha GA, Jin LW, Karydas A, Kaye JA, Kim R, Koo EH, Kowall NW, Kramer 
+JH, LaFerla FM, Lah JJ, Leverenz JB, Levey AI, Li G, Lieberman AP, Lin CF, Lopez OL, 
+Lyketsos CG, Mack WJ, Martiniuk F, Mash DC, Masliah E, McCormick WC, McCurry SM, 
+McDavid AN, McKee AC, Mesulam M, Miller BL, Miller CA, Miller JW, Murrell JR, Olichney 
+JM, Pankratz VS, Parisi JE, Paulson HL, Peskind E, Petersen RC, Pierce A, Poon WW, Potter H, 
+Quinn JF, Raj A, Raskind M, Reisberg B, Ringman JM, Roberson ED, Rosen HJ, Rosenberg 
+RN, Sano M, Schneider LS, Seeley WW, Smith AG, Sonnen JA, Spina S, Stern RA, Tanzi RE, 
+Thornton-Wells TA, Trojanowski JQ, Troncoso JC, Valladares O, Van Deerlin VM, Van Eldik 
+LJ, Vardarajan BN, Vinters HV, Vonsattel JP, Weintraub S, Welsh-Bohmer KA, Williamson J, 
+Wishnek S, Woltjer RL, Wright CB, Younkin SG, Yu CE, Yu L. Effects of multiple genetic loci 
+on age at onset in late-onset Alzheimer disease: a genome-wide association study. JAMA 
+Neurology. 2014 Nov;71(11):1394-404. PMID:25199842. PMCID:PMC4314944. 
+doi:10.1001/jamaneurol.2014.1491.
+
+	• LaRusch J, Jung J, General IJ, Lewis MD, Park HW, Brand RE, Gelrud A, Anderson 
+MA, Banks PA, Conwell D, Lawrence C, Romagnuolo J, Baillie J, Alkaade S, Cote G, Gardner 
+TB, Amann ST, Slivka A, Sandhu B, Aloe A, Kienholz ML, Yadav D, Barmada MM, Bahar 
+I, Lee MG, Whitcomb DC, North American Pancreatitis Study Group. Mechanisms of CFTR 
+functional variants that impair regulated bicarbonate permeation and increase risk for pancreatitis 
+but not for cystic fibrosis. PLoS Genetics. 2014 Jul;10(7):e1004376. PMID:25033378. 
+PMCID:PMC4102440. doi:10.1371/journal.pgen.1004376
+
+On Jun 30, 2015, at 12:09 PM, Ferreira, Antonio M <Antonio.Ferreira@pitt.edu> 
+wrote:
+
+Mike,
+ 
+Do you have your funding and publications information for the past year?  I 
+need it to finalize the annual report.
+ 
+Thanks,
+Tony
+ 
+ 
+ 
+Antonio M. Ferreira, PhD
+Executive Director, Center for Simulation and Modeling
+Research Associate Professor
+Department of Chemistry
+Department of Computational and Systems Biology
+1144 Benedum Hall
+(412) 648-3094
+ 
+<image001.gif>
+
+--  
+M. Michael Barmada, Ph.D. 
+Associate Professor of Human Genetics and Biomedical Informatics 
+Director, Center for Computational Genetics, GSPH 
+Associate Director, Center for Simulation and Modeling, University of Pittsburgh 
+Co-Director, Informatics Resource Center, Institute for Personalized Medicine 
+ 
+Graduate School of Public Health, University of Pittsburgh 
+Crabtree A300 
+130 Desoto Street 
+Pittsburgh, PA 15261 
+ 
+Email: barmada@pitt.edu 
+Web: http://digitalvita.pitt.edu/dvprofiles/barmada 
+Phone: 412-383-7959 
+Fax: 412-624-3020 
+ 
+===================================================================== 
+           There are three kinds of people in this world: 
+            those that can count, and those that can't... 
+ 
+           The requirements said: Windows 2000 or better. 
+                       So I got a Macintosh. 
+ 
+   To know the mighty works of God; to comprehend His wisdom and 
+ majesty and power; to appreciate, in degree, the wonderful working 
+of His laws, surely all this must be a pleasing and acceptable mode 
+  of worship to the Most High, to whom ignorance can not be more 
+                     grateful than knowledge. 
+                          ~Copernicus 
+===================================================================== 
+
+

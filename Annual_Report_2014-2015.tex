@@ -1,0 +1,136 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Legrand Orange Book
+% LaTeX Template
+% Version 1.4 (12/4/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Mathias Legrand (legrand.mathias@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% Chapter heading images should have a 2:1 width:height ratio,
+% e.g. 920px width and 460px height.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% Default font size and left-justified equations
+\documentclass[11pt,fleqn,letterpaper]{book}
+
+% Use 'geometry' package for page margins
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,letterpaper]{geometry}
+
+% Define the colors used for highlighting throughout the book
+\usepackage{xcolor}
+\definecolor{PittBlue}{RGB}{17,3,64}
+\definecolor{PittGold}{RGB}{193,160,0}
+
+% Font Settings
+% Select the font for headings
+\usepackage{avant}           % Avantgarde
+%\usepackage{times}          % Times Roman
+
+\usepackage{mathptmx}        % Use the Adobe Times Roman as the default text font together
+                             % with math symbols from the Symbol, Chancery and Computer
+                             % Modern fonts
+
+\usepackage{microtype}       % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc}  % Required for including letters with accents
+\usepackage[T1]{fontenc}     % Use 8-bit encoding that has 256 glyphs
+
+% links
+\usepackage{hyperref}
+
+% Bibliography
+\usepackage[style=alphabetic,sorting=nyt,sortcites=true,autopunct=true,babel=hyphen,hyperref=true,abbreviate=false,backref=true,backend=biber]{biblatex}
+\addbibresource{bibliography.bib}
+\defbibheading{bibempty}{}
+
+% Index
+\usepackage{calc}
+\usepackage{makeidx}
+\makeindex
+
+%----------------------------------------------------------------------------------------
+
+% Insert the commands.tex file which contains the majority of the structure
+% behind the template
+\input{commands}
+
+%----------------------------------------------------------------------------------------
+
+
+\begin{document}
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\begingroup
+\thispagestyle{empty}
+% Page Background Image
+\AddToShipoutPicture*{\put(0,-67){\BackgroundPic{2015_cover}}}
+\centering
+\vspace*{-2.75cm}
+\par\bfseries\fontsize{38}{38}\selectfont
+\color{PittBlue}2014--2015 Annual Report\par % Book title
+\vspace{0.25em} 
+% Author name
+{\Huge \bf Center for Simulation and Modeling\\University of Pittsburgh}\par
+\endgroup
+
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+\newpage
+~\vfill
+\thispagestyle{empty}
+\noindent Copyright \copyright\ 2015 Center for Simulation and Modeling\\ % Copyright notice
+\textsc{University of Pittsburgh}\\ % Publisher
+\texttt{sam.pitt.edu}\\ % URL
+
+\noindent \textit{Submited: July 13, 2015}
+
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\chapterimage{sam.jpg} % Table of contents heading image
+\pagestyle{empty} % No headers
+\tableofcontents % Print the table of contents itself
+\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+\pagestyle{fancy} % Print headers again
+
+%----------------------------------------------------------------------------------------
+%	CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\input{Summary}
+\input{Education}
+\input{Research}
+\input{Outreach}
+\input{Operations}
+% \input{Bibliography}
+\input{Appendix}
+
+%----------------------------------------------------------------------------------------
+%	INDEX
+%----------------------------------------------------------------------------------------
+
+\cleardoublepage
+\phantomsection
+\setlength{\columnsep}{0.75cm}
+\addcontentsline{toc}{chapter}{\textcolor{PittGold}{Index}}
+\printindex
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

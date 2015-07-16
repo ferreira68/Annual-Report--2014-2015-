@@ -1,0 +1,69 @@
+From:	Johnson, J Karl
+Sent:	Friday, July 10, 2015 1:43 PM
+To:	Ferreira, Antonio M
+Subject:	FW: info request
+
+Tony, 
+
+Here’s the email I sent do Wendy over a month ago. She only asked for publications. 
+
+From: Johnson, J Karl  
+Sent: Friday, June 05, 2015 12:15 PM 
+To: 'Wendy Burnett Janocha' 
+Subject: RE: info request
+
+So sorry! 
+
+I had it on my list of things to do, but hadn’t gotten to it yet. Here it is:
+
+146.     Bo Zhang, Adri C.T. van Duin, J Karl Johnson “Development of a ReaxFF Reactive Force Field 
+for Tetrabutylphosphonium Glycinate/CO2 Mixtures”, Journal of Physical Chemistry B, 118, 
+12008-12016 (2014). DOI: 10.1021/jp5054277
+145.     Zi-Yu Hu, Xiaohong Shao, Da Wang, Li-Min Liu, and J. Karl Johnson, “A first-principles study 
+of lithium-decorated hybrid boron nitride and graphene domains for hydrogen storage”, Journal 
+of Chemical Physics, 141, 084711 (2014). DOI: 10.1063/1.4893177
+144.     Ping Li, Graeme Henkelman, John A. Keith, and J. Karl Johnson, Elucidation of Aqueous Solvent 
+Mediated Hydrogen-Transfer Reactions by Ab Initio Molecular Dynamics and Nudged Elastic 
+Band Studies of NaBH4 Hydrolysis” Journal of Physical Chemistry C, 118, 21385-21399 (2014). 
+DOI: 10.1021/jp507872d
+143.     De-Li Chen, Ningwei Wang, Fang-Fang Wang, Jianwu Xie, Yijun Zhong, Weidong Zhu, J. Karl 
+Johnson, Rajamani Krishna, “Utilizing Gate-Opening Mechanism in ZIF-7 for Adsorption 
+Discrimination between N2O and CO2”, Journal of Physical Chemistry C, 118, 17831-17837 
+(2014). DOI: 10.1021/jp5056733
+142.     Christopher S. Ewing, Saurabh Bhavsar, Götz Veser, Joseph J. McCarthy, and J. Karl Johnson, 
+“Accurate Amorphous Silica Surface Models from First Principles Thermodynamics of Surface 
+Dehydroxylation”, Langmuir, 30, 5133?5141 (2014). dx.doi.org/10.1021/la500422p DOI: 
+10.1021/la500422p
+141.     Robert J. Perry, Sarah E. Genovese, Rachel L. Farnum, Irina Sultanova, Thomas M. Perry, 
+Michael J. O’Brien, Hong-bin Xie, De-Li Chen, Robert M. Enick, J. Karl Johnson, Saeed 
+Alshahrani, “A combined experimental and computational study on selected physical properties 
+of amino silicones” Industrial & Engineering Chemistry Research, 53, 1334?1341 (2014). DOI: 
+10.1021/ie4035835
+
+Do you want it as a Word document instead?
+
+-----------------------------------------------------------------------
+Dr. Karl Johnson
+William Kepler Whiteford Professor
+Co-director, Center for Simulation & Modeling
+Department of Chemical & Petroleum Engineering
+University of Pittsburgh
+904 Benedum Hall
+Pittsburgh, PA 15261
+Office: 412-624-5644
+Cell: 412-680-1783
+Fax: 412-624-9639
+Email: karlj@pitt.edu
+
+From: Wendy Burnett Janocha [mailto:wjanocha@gmail.com]  
+Sent: Friday, June 05, 2015 11:54 AM 
+To: Johnson, J Karl 
+Subject: info request
+
+Karl could you please send me your publications for 2014? It's annual report time.
+Thanks
+
+-- 
+~ "Growing up I always thought quicksand would be a much bigger problem than it turned out to be." ~ 
+Wendy Burnett Janocha | Computational Modeling & Simulation Program | Center for Simulation and Modeling | 326 Eberly Hall | University of Pittsburgh | Office: 
+412.648.7251 | Cell: 412.260.3413 |  Carpe Librum
