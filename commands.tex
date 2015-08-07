@@ -22,6 +22,12 @@
 
 \usepackage{csquotes} % Recommended for polyglossia
 
+% \usepackage{tabularx} % For better formatting of tables
+\usepackage{ltablex} % For better formatting of tables
+\setlength{\tabcolsep}{2pt}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE BACKGROUND IMAGE
 %----------------------------------------------------------------------------------------
